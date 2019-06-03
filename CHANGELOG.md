@@ -1,1 +1,1 @@
-Initial release.
+- Added missing ModuleManager dependency (#1)
